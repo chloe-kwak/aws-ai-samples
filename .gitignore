@@ -1,0 +1,33 @@
+# 개발 환경
+.env
+.env.local
+.env.development
+myenv/
+
+# 의존성 디렉토리
+node_modules/
+vendor/
+
+# IDE 설정
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db
+
+# 빌드 결과물
+pred_aicc/bk/
+build/
+*.class
+*.pyc
+
+# 로그 파일
+*.log
+logs/
+
+# 임시 파일
+*.tmp
+*.temp
